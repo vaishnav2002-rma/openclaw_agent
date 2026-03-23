@@ -1,0 +1,31 @@
+```json
+{
+  "name": "Sundar Pichai",
+  "role": "CEO of Google (since 2015) and Alphabet Inc. (since 2019)",
+  "companies": [
+    "Google",
+    "Alphabet Inc.",
+    "McKinsey & Company",
+    "Applied Materials",
+    "Jive Software"
+  ],
+  "background": "Born Pichai Sundararajan on June 10, 1972, in Madurai, Tamil Nadu, to a Tamil Hindu family. His mother, Lakshmi, was a stenographer, and his father, Regunatha Pichai, was an electrical engineer at GEC. He completed schooling in Jawahar Vidyalaya Senior Secondary School and Vana Vani school, earned a B.Tech in metallurgical engineering from IIT Kharagpur, an MS from Stanford University in materials science and engineering, and an MBA from the Wharton School of the University of Pennsylvania (where he was a Siebel Scholar and Palmer Scholar). He began his career as a materials engineer, working in engineering and product management at Applied Materials and in management consulting at McKinsey & Company.",
+  "leadership_style": "",
+  "key_events": [
+    "Joined Google in 2004",
+    "Led product management for Google Chrome, ChromeOS, and Google Drive",
+    "Oversaw development of Gmail and Google Maps",
+    "Gave a demonstration of ChromeOS on November 19, 2009",
+    "Announced the open-sourcing of VP8 and introduced WebM on May 20, 2010",
+    "Served on Jive Software's board of directors (April 2011 - July 2013)",
+    "Added Android to his oversight on March 13, 2013",
+    "Selected to become CEO of Google on August 10, 2015",
+    "Stepped into the new CEO position at Google on October 24, 2015",
+    "Became CEO of Alphabet Inc. in 2019",
+    "Estimated net worth at US$1.6 billion as of February 2026"
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Sundar_Pichai"
+  ]
+}
+```
